@@ -34,7 +34,7 @@ Online Travel Agency (OTA) is a Web Application, designed and incorporated to al
 
     <img alt="mail" src="https://github.com/v-abhishek/online-travel-agency/blob/master/images/approvalemail.png" />
 
-5. Airliner can add new aircrafts and manage their fleet of aircraft
+5. Airliner can add new aircrafts and manage their fleet of aircrafts
 
     <img alt="fleet" src="https://github.com/v-abhishek/online-travel-agency/blob/master/images/fleet.JPG" />
 
