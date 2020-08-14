@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<taglib version="2.1" xmlns="http://java.sun.com/xml/ns/javaee" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-jsptaglibrary_2_1.xsd">
+  <tlib-version>1.0</tlib-version>
+  <short-name>current_date</short-name>
+  <uri>/WEB-INF/tld/current_date</uri>
+  <tag>
+    <name>CurrentDateFormat</name>
+    <tag-class>com.online_travel_agency.custom_tags.CurrentDateFormat</tag-class>
+    <body-content>scriptless</body-content>
+    <attribute>
+      <name>format</name>
+      <required>true</required>
+      <rtexprvalue>true</rtexprvalue>
+      <type>java.lang.String</type>
+    </attribute>
+  </tag>
+</taglib>
