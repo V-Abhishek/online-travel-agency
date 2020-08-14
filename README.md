@@ -10,6 +10,7 @@ Online Travel Agency (OTA) is a Web Application, designed and incorporated to al
 
 ### ARCHITECTURE
 
+    <img alt="architecture" src="https://github.com/v-abhishek/online-travel-agency/blob/master/images/architecture.JPG" />
 
 ---
 
