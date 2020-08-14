@@ -41,4 +41,20 @@ Online Travel Agency (OTA) is a Web Application, designed and incorporated to al
 
     <img alt="flight" src="https://github.com/v-abhishek/online-travel-agency/blob/master/images/flight.JPG" />
 
-           
+7. Customer can search for flights and can filter the results based on available filters
+
+    <img alt="search" src="https://github.com/v-abhishek/online-travel-agency/blob/master/images/search.JPG" />
+
+8. A registered customer can make a reservation on the desired flight
+
+    <img alt="book" src="https://github.com/v-abhishek/online-travel-agency/blob/master/images/book.JPG" />
+
+9. A reservation confirmation mail is recieved by the customer, upon booking a flight
+
+    <img alt="customermail" src="https://github.com/v-abhishek/online-travel-agency/blob/master/images/customermail.JPG" />
+
+10. A downloadable PDF of the ticket is generated that be accesed within the user account under `My Bookings`
+
+    <img alt="myBooking" src="https://github.com/v-abhishek/online-travel-agency/blob/master/images/mybooking.JPG" />
+
+    <img alt="ticket" src="https://github.com/v-abhishek/online-travel-agency/blob/master/images/ticket.JPG" />
