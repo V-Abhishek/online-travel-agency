@@ -51,7 +51,7 @@ Online Travel Agency (OTA) is a Web Application, designed and incorporated to al
 
 9. A reservation confirmation mail is recieved by the customer, upon booking a flight
 
-    <img alt="customermail" src="https://github.com/v-abhishek/online-travel-agency/blob/master/images/customermail.JPG" />
+    <img alt="customermail" src="https://github.com/v-abhishek/online-travel-agency/blob/master/images/customermail.png" />
 
 10. A downloadable PDF of the ticket is generated that be accesed within the user account under `My Bookings`
 
