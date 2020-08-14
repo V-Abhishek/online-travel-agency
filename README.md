@@ -58,3 +58,32 @@ Online Travel Agency (OTA) is a Web Application, designed and incorporated to al
     <img alt="myBooking" src="https://github.com/v-abhishek/online-travel-agency/blob/master/images/mybooking.JPG" />
 
     <img alt="ticket" src="https://github.com/v-abhishek/online-travel-agency/blob/master/images/ticket.JPG" />
+
+### LANGUAGE, TOOLS and FRAMEWORK
+
+- Java
+- MySQL
+- Spring Framework
+
+### SERVER
+
+- Apache Tomcat
+
+### TEAM INFORMATION
+
+NAME | GIT ID
+------------ | -------------
+ABHISHEK VISHWANATH | [v-abhishek](https://github.com/v-abhishek)
+
+### APPLICATION DEPLOYMENT
+
+- Ensure that you have installed Java (Java 8 or above) on your machine
+- Clone or download this repository on to your machine
+- Install NetBeans IDE, if not present
+- Import the cloned or downloaded project
+- Download and install Apache Tomcat 8 or above
+- Integrate Tomcat with Netbeans and run the application
+                    OR
+  Build and generate a WAR file of the application and deploy it in the tomcat server by placing the previously generated WAR file in `webapps` folder of the server                  
+- Register an Airliner and a Customer
+- Login as Administrator, enter Username and Password as `admin@travel.com` and `admin1` respectively and approve previously registered airliner account 
