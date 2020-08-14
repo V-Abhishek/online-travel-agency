@@ -16,7 +16,7 @@ Online Travel Agency (OTA) is a Web Application, designed and incorporated to al
 
 ### APPLICATION FEATURES AND USE CASES
 
-1. Encrypted user passwords by leveraging BCryt, before storing user details
+1. Encrypted user passwords, leveraging BCryt, before storing user details
 
     <img alt="encrypt" src="https://github.com/v-abhishek/online-travel-agency/blob/master/images/encrypt.JPG" />
 
@@ -42,7 +42,7 @@ Online Travel Agency (OTA) is a Web Application, designed and incorporated to al
 
     <img alt="flight" src="https://github.com/v-abhishek/online-travel-agency/blob/master/images/flight.JPG" />
 
-7. Customer can search for flights and can filter the results based on available filters
+7. Customer can search for flights and filter the results based on available filters
 
     <img alt="search" src="https://github.com/v-abhishek/online-travel-agency/blob/master/images/search.JPG" />
 
@@ -85,6 +85,6 @@ ABHISHEK VISHWANATH | [v-abhishek](https://github.com/v-abhishek)
 - Download and install Apache Tomcat 8 or above
 - Integrate Tomcat with Netbeans and run the application
                     OR
-  Build and generate a WAR file of the application and deploy it in the tomcat server by placing the previously generated WAR file in `webapps` folder of the server                  
+  build and generate a WAR file of the application and deploy it in the tomcat server by placing the previously generated WAR file in `webapps` folder of the server                  
 - Register an Airliner and a Customer
 - Login as Administrator, enter Username and Password as `admin@travel.com` and `admin1` respectively and approve previously registered airliner account 
