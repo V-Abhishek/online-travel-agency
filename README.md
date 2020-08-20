@@ -72,9 +72,6 @@ Online Travel Agency (OTA) is a Web Application, designed and incorporated to al
 
 ### TEAM INFORMATION
 
-NAME | GIT ID
------------- | -------------
-ABHISHEK VISHWANATH | [v-abhishek](https://github.com/v-abhishek)
 
 ### APPLICATION DEPLOYMENT
 
