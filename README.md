@@ -70,9 +70,6 @@ Online Travel Agency (OTA) is a Web Application, designed and incorporated to al
 
 - Apache Tomcat
 
-### TEAM INFORMATION
-
-
 ### APPLICATION DEPLOYMENT
 
 - Ensure that you have installed Java (Java 8 or above) on your machine
